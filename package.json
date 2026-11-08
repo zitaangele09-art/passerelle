@@ -1,0 +1,8 @@
+{
+  "name": "passerelle-serveur",
+  "version": "1.0.0",
+  "description": "Serveur de taux de change en direct pour l'application Passerelle",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
