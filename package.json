@@ -1,8 +1,8 @@
 {
-  "name": "passerelle-serveur",
-  "version": "1.0.0",
-  "description": "Serveur de taux de change en direct pour l'application Passerelle",
+  "name": "passerelle-comptes",
+  "version": "2.0.0",
+  "description": "Passerelle : comptes, registre des soldes et base de données (mode test)",
   "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=22.5" }
 }
